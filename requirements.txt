@@ -1,0 +1,8 @@
+IPython
+ipywidgets
+bqplot
+voila
+numpy
+matplotlib
+pyldpc
+tqdm
